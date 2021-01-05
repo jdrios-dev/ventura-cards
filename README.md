@@ -5,7 +5,7 @@ Card Travel API
 
 ## Starting with 🚀
 
-git clone https://github.com/jdrios-devventura-cards.git
+git clone https://github.com/jdrios-dev/ventura-cards.git
 
 ## Installation 🔧
 
